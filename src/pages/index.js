@@ -75,7 +75,7 @@ export default function App() {
 
       <img
         ref={imgRef}
-        src="/image.png"
+        src="./image.png"
         alt="Animated"
         className="relative max-w-[700px] w-full  
              -translate-x-[40vw] rotate-[24deg] scale-[1.1]"
